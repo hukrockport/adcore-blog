@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zetsu
-date: 2015-11-12 00:00:00
+date: 2015-11-12T00:00:00.000+00:00
 homepage: https://github.com/nandomoreirame/zetsu
 download: https://github.com/nandomoreirame/zetsu/archive/master.zip
 demo: http://nandomoreira.me/zetsu/
@@ -9,4 +9,5 @@ author: nandomoreira.me
 thumbnail: zetsu.png
 license: MIT License
 license_link: https://github.com/nandomoreirame/zetsu/blob/master/LICENSE
+
 ---
